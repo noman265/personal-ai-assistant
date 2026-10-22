@@ -1,0 +1,19 @@
+# Private application data
+memory.json
+chat_history.json
+tasks.json
+
+# Java build output
+*.class
+out/
+target/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment secrets
+.env
+.env.*
+!.env.example
